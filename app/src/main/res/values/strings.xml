@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EventoApp</string>
+    <string name="titulo">Titulo</string>
+    <string name="data">Data</string>
+    <string name="principais_erros">Principais erros e metodos...</string>
+    <string-array name="array_aulas">
+        <item>Video 01</item>
+        <item>Video 02</item>
+        <item>Video 03</item>
+        <item>Video 04</item>
+    </string-array>
+</resources>
